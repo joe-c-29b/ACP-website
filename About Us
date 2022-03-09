@@ -1,0 +1,130 @@
+
+<head>
+
+<style>
+  p{
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+  }
+  .text-standard{
+    color: black;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", "sans-serif";
+    hyphens: none;
+  }
+  .kitchensink{
+    border-color: #000000; 
+    background-color: #FAFAFA; 
+    padding: 5px 5px 5px 5px;
+    font-size: 16px; 
+    margin-left:.125in; 
+    font-family:Calibri (Body); 
+    font-weight: heavy;
+  }
+  a.linkydink:link, a.linkydink:visited{
+    color:#0066cc;
+    text-decoration: underline;
+  }
+  a.linkydink:hover{
+    color: #7851a9;
+  }
+  a.linkydink:active{
+    color:#0066cc;
+  }
+  a.collapselink:link{
+    color: #000000;
+    text-decoration: none;
+  }
+  a.collapselink:hover{
+    color: #525252;
+    font-size: 105%;
+    text-decoration: none;
+  }  
+  a.collapsesink:link, a.collapsesink:visited{
+    color: #0066CC;
+    font-size: 16px;
+    background-color: transparent;
+    padding: 0px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+  }
+  a.collapsesink:hover{
+    color: #7851a9;
+    font-size: 105%;
+    background-color: transparent;
+    padding: 0px;
+    border: #7851a9;
+    margin: none;
+    text-decoration: none;
+  }
+  .picture-large{
+    width: 270px;
+    height: 180px;
+  }
+  ul{
+    list-style-type:circle;
+  }
+  li{
+    margin-left: .25in;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+
+
+</style>
+</head>
+
+<body>
+
+<main>
+  <section id="history">
+    <h2><strong>Our History</strong></h2>
+    <p>Washington's Address Confidentiality Program (ACP) is designed to help people who fear for their safety maintain 
+    a confidential address. Passed by legislature in 1991, ACP is used as part of an overall safety plan to prevent 
+    perpetrators from locating participants through public records such as driver licenses, voter registries and marriage 
+    records.</p>
+    <p>Washington's ACP is available to state residents who are targets of stalking, domestic violence, trafficking or 
+    sexual assault. In 2011, the program expanded to include criminal justice employees who have been threatened or harassed 
+    because of their work. Currently, the ACP serves more than 5,000 residents.</p>
+    <p>Washington's ACP was the first program of its kind in the nation. Today some 40 states and territories have established similar programs.</p>
+  </section>
+  
+
+  <section id="service">
+    <h2><strong>What We Do</strong></h2>
+    <p>When someone enrolls in the ACP, they are assigned a P.O. Box address that they can use as their legal home, work or school 
+    address.  State, county and city government agencies are legally required to accept the substitute address.</p>
+    <p>The ACP accepts all First Class, registered, certified and election mail on behalf of participants, then forwards mail to the 
+    participants actual address. </p>
+    <p>The  program also provides confidentiality for two normally public records: voter registration and marriage records. ACP 
+    participants may register to vote as Protected Records Voters (PRV's) and apply for Protected Records Marriage (PRM) licensing, 
+    which means no record is made available to the public. If the participant uses the program correctly, the participants’ actual 
+    physical address may remain out of public records and unavailable to their perpetrator(s).</p>
+    <h3><strong>Limitations</strong></h3>
+    <ul>
+      <li>Federal government and private businesses are not required to accept the ACP address.</li>
+      <li>ACP cannot redact already public personal information</li>
+      <li>Actual residential address may still be required to: purchase a home, apply for a line of credit, set up utilities, purchase a firearm, etc.</li>
+    </ul>
+  </section>
+
+
+
+
+
+  <section id="rules">
+    <h2><strong>Rules and Statutes</strong></h2>
+    <a class="linkydink" href="https://apps.leg.wa.gov/RCW/default.aspx?cite=40.24">Chapter 40.24 RCW</a>
+    <br /><a class="linkydink" href="https://apps.leg.wa.gov/WAC/default.aspx?cite=434-840">Chapter 434-840 WAC</a>
+    <br /><a class="linkydink" href="https://app.leg.wa.gov/RCW/default.aspx?cite=9A.46.020">Chapter 9A.46.020</a>
+    <br /><a class="linkydink" href="/_assets/acp/ExemptionDetermination921.pdf">Exemption Determination 92-1</a>
+    <br /><a class="linkydink" href="/_assets/acp/Thurston%20County%20Exemption%20Determination.pdf">Thurston County Exemption Determination</a>
+
+  </section>
+
+
+</main>
+
+</body>
