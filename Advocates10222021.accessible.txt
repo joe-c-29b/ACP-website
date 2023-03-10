@@ -1,0 +1,192 @@
+﻿
+<head>
+
+<style>
+  p{
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+  }
+  .text-standard{
+    color: black;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", "sans-serif";
+    hyphens: none;
+  }
+  .kitchensink{
+    border-color: #000000; 
+    background-color: #FAFAFA; 
+    padding: 5px 5px 5px 5px;
+    font-size: 16px; 
+    margin-left:.125in; 
+    font-family:Calibri (Body); 
+    font-weight: heavy;
+  }
+  a.linkydink:link, a.linkydink:visited{
+    color:#0066cc;
+    text-decoration: dotted;
+  }
+  a.linkydink:hover{
+    color: #7851a9;
+  }
+  a.linkydink:active{
+    color:#0066cc;
+  }
+  a.collapselink:link{
+    color: #000000;
+    text-decoration: none;
+  }
+  a.collapselink:hover{
+    color: #525252;
+    font-size: 105%;
+    text-decoration: none;
+  }  
+  a.collapsesink:link, a.collapsesink:visited{
+    color: #0066CC;
+    font-size: 16px;
+    background-color: transparent;
+    padding: 0px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+  }
+  a.collapsesink:hover{
+    color: #7851a9;
+    font-size: 105%;
+    background-color: transparent;
+    padding: 0px;
+    border: #7851a9;
+    margin: none;
+    text-decoration: none;
+  }
+  .picture-large{
+    width: 270px;
+    height: 180px;
+  }
+  ul{
+    list-style-type:circle;
+  }
+  li{
+    margin-left: .25in;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+
+
+</style>
+</head>
+
+<body>
+
+  <header>
+    <p>The Washington Address Confidentiality Program (ACP) relies on the expertise of advocates located 
+    throughout the state to assist applicants. Applicants can meet with advocates who have been designated 
+    as an Application Assistant (AA) to apply for the program.</p>
+  </header>
+
+
+
+
+  <main>
+    <section id="job">
+      <h2><strong>What is an Application Assistant?</strong></h2>
+      <p>An AA must be a designee of their agency or program and authorized by the secretary of state to assist 
+      individuals in the completion of ACP applications. Without AAs, the ACP could not be successful in 
+      helping families stay safe.</p>
+    </section>
+  
+
+    <section id="info">    
+      <div aria-multiselectable="true" class="panel-group" id="accordionA" role="tablist">
+      
+        <div class="panel panel-default">
+          <div class="panel-heading" id="headingA1" role="tab">
+            <h3 class="panel-title"><a aria-controls="collapseA1" aria-expanded="true" data-parent="#accordionA"  class="collapselink"
+            data-toggle="collapse" href="#collapseA1" role="button"><strong><font size="3px">&nabla;</font> &nbsp; &nbsp; Application Assistant Eligibility</strong></a></h3>
+          </div>
+
+          <div aria-labelledby="headingA1" class="panel-collapse collapse" id="collapseA1" role="tabpanel">
+            <div>
+              <p style="margin-left:.125in; margin-top:.125in; margin-bottom:.125in;">By law, only certain people are eligible to be an ACP Application Assistant. They must be an employee of a 
+              non-profit program or a state, county, or other local agency. Additionally, it must be a part of their job to provide advocacy, counseling, referral, or 
+              shelter services to victims of domestic violence, sexual assault, stalking, or trafficking.</p>
+            </div>
+          </div>
+        </div>
+      
+
+        <div class="panel panel-default">
+          <div class="panel-heading" id="headingA2" role="tab">
+            <h3 class="panel-title"><a aria-controls="collapseA2" aria-expanded="false" class="collapsed collapselink" data-parent="#accordionA"
+            data-toggle="collapse" href="#collapseA2" role="button"><strong><font size="3px">&nabla;</font> &nbsp; &nbsp; Role of the Application Assistant</strong></a></h3>
+          </div>
+
+          <div aria-labelledby="headingA2" class="panel-collapse collapse" id="collapseA2" role="tabpanel">
+            <div class="panel-body">
+              <ul>
+                <li>Provide safety planning and other resource assistance to applicant.</li>           
+                <li>Meet with applicant to explain the ACP.</li>
+                <li>Discuss program eligibility and fit with applicant.</li>
+                <li>Assist applicant with completing ACP application and submit to the ACP once complete.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      
+   
+    <!--div id="bJNovak_OneMoreThing_pg43"-->
+  
+    
+        <div class="panel panel-default">
+          <div class="panel-heading" id="headingA3" role="tab">
+            <h3 class="panel-title"><a aria-controls="collapseA3" aria-expanded="false" class="collapsed collapselink" data-parent="#accordionA"
+            data-toggle="collapse" href="#collapseA3" role="button"><strong><font size="3px">&nabla;</font> &nbsp; &nbsp; How do I Become a Certified Application Assistant?</strong></a></h3>
+          </div><!-- to link directly to content within the panel, change the class to "panel-collapse open", the problem is that the accordion is no longer collapsed when the page is opened regardless of the link used to navigate to the page-->
+
+          <div aria-labelledby="headingA3" class="panel-collapse open" id="collapseA3" role="tabpanel">
+            <div>
+              <p style="margin-left:.125in; margin-top:.125in; margin-bottom:.125in;">If you meet the eligibility criteria to be an ACP Application Assistant, you must complete the steps below:</p>
+              <ul>
+                <li>Complete certification training administered by the Washington ACP that includes
+                <ul style="list-style-type:disc;">
+                  <li>Watching the advocate video at the bottom of this page.</li>
+                  <li>Emailing <a class="linkydink" href="mailto:ACPTraining@sos.wa.gov">ACPTraining@sos.wa.gov</a> to arrange a short phone follow up.</li>
+                </ul>
+              </ul>
+              <p style="margin-left:.25in;"><strong>AND</strong></p>
+              <ul>
+                <li>Submit a complete Application Assistant Agreement that will be emailed to you after the phone 
+                follow up.</li>
+              </ul>
+         
+              <p style="margin-left:.125in;">Certification is valid for two years from the date of execution and a new agreement must be completed
+              every two years to continue serving as an Application Assistant.</p>
+
+              <p style="margin-left:.125in;">You can transfer your certification to a new employer as long as you still meet the eligibility 
+              requirements and by submitting an updated Application Assistant Agreement.</p></div>
+
+              <center><a href="https://www.youtube.com/watch?v=lQ87yAyjoV8&list=PL9oXZcOwq8vms3wsyxbWUy8pYS-zvswUC" target="_blank">
+              <img class="picture-large" src="/_assets/acp/video.jpg" alt="Advocates Video"/></a></center>
+
+              <p>&nbsp;</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section id="request">
+      <div>
+        <h2><strong>Request for training and materials</strong></h2>
+
+        <p>If you are a current Application Assistant and are in need of ACP materials, please email 
+        <a class="linkydink" href="mailto:ACPTraining@sos.wa.gov">ACPTraining@sos.wa.gov</a>. Applications are not available online and must be 
+        requested from our office directly by a certified Application Assistant.</p>
+      </div>
+    </section>
+
+
+  </main>
+
+</body>

@@ -1,0 +1,1266 @@
+﻿
+<head>
+<style>
+  p{
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none
+  }
+  h2{
+    font-size: 32px;
+  }
+  a.collapselink:link, a.collapselink:visited{
+    color: #0066cc;
+    text-decoration: underline;
+  }
+  a.collapselink:hover{
+    color: #7851a9;
+  }
+  a.alphablaster:link, a.alphablaster:visited{
+    color: #0066cc;
+    text-decoration: none;
+  }
+  a.alphablaster:hover{
+    color: #7851a9;
+    font-weight: bold;
+  }
+  a:active{
+    color: #0066cc;
+    
+  }
+  a:link{
+    color: #000000
+  }
+  a:hover{
+    color: #525252;
+    font-size: 105%
+  }  
+  a{
+    color: #000000;
+  }
+  .picture-large{
+    width: 270px;
+    height: 180px;
+  }
+  ul{
+    list-style-type:circle;
+  }
+  li{
+    margin-left: .25in;
+  }
+
+  
+</style>
+</head>
+
+
+<!--<header>
+<h1><strong>How to Apply</strong></h1>
+</header>-->
+
+
+
+<body>
+<main>
+
+<article id="How2Apply">
+  
+  <p>Contact an Application Assistant.&nbsp;</p>
+  <p>Survivors will be referred to an Application Assistant. Application Assistants are located throughout the state in 
+  agencies and non-profit organizations that provide advocacy, counseling, referral, or shelter services to victims of 
+  sexual assault, domestic violence, trafficking, or stalking. &nbsp;</p>
+
+  <h3>The Application Assistant will:</h3>
+
+  <ul>
+    <li>Explain how the ACP works</li>
+    <li>Explain participant responsibilities while enrolled in ACP</li>
+    <li>Work with survivors to incorporate the ACP into their overall plans</li>
+    <li>Assist applicants with completing their application</li>
+    <li>Forward completed application to the program</li>
+  </ul>
+
+  <p>Once an application is received, ACP program staff thoroughly review it. If the application is complete, staff then 
+  certify the participants' enrollment in the program for the next four years. All certified participants are issued a 
+  Washington ACP authorization card and a program handbook that details how to use the substitute address effectively with 
+  government agencies.</p>
+</article>
+
+
+
+
+
+<section id="alphabetSoup">
+<h1>Find an Application Assistant by City <span class="sr-only">Call 360-753-2972 or toll free 800-822-1065 to receive additonal help locating an Application Assistant<span></h1>
+
+
+  <p align="center"><a class="alphablaster" href="https://www.sos.wa.gov/acp/how-to-apply---find-an-application-assistantby-county.aspx">By County</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a class="alphablaster" href="https://www.sos.wa.gov/acp/how-to-apply---find-an-application-assistantby-city.aspx"><strong><u>By City</u></strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
+  <a class="alphablaster" href="https://www.sos.wa.gov/acp/how-to-apply---find-an-application-assistantby-name.aspx">By Program</a></p>
+
+  <p align="center" style="margin-left:45.0pt;">
+  <a class="alphablaster" href="#alphabetSoup">A</a> ǀ 
+  <a class="alphablaster" href="#BB">B</a> ǀ 
+  <a class="alphablaster" href="#CC">C</a> ǀ 
+  <a class="alphablaster" href="#DD">D</a> ǀ 
+  <a class="alphablaster" href="#EE">E</a> ǀ 
+  <a class="alphablaster" href="#FF">F</a> ǀ G ǀ 
+  <a class="alphablaster" href="#HH">H</a> ǀ I ǀ J ǀ 
+  <a class="alphablaster" href="#KK">K</a> ǀ 
+  <a class="alphablaster" href="#LL">L</a> ǀ 
+  <a class="alphablaster" href="#MM">M</a> ǀ 
+  <a class="alphablaster" href="#NN">N</a> ǀ 
+  <a class="alphablaster" href="#OO">O</a> ǀ 
+  <a class="alphablaster" href="#PP">P</a> ǀ Q ǀ 
+  <a class="alphablaster" href="#RR">R</a> ǀ 
+  <a class="alphablaster" href="#SS">S</a> ǀ 
+  <a class="alphablaster" href="#TT">T</a> ǀ 
+  <a class="alphablaster" href="#UU">U</a> ǀ 
+  <a class="alphablaster" href="#VV">V</a> ǀ 
+  <a class="alphablaster" href="#WW">W</a> ǀ X ǀ 
+  <a class="alphablaster" href="#YY">Y</a> ǀ Z
+  </p>
+
+</section>
+
+
+<article id="alpha">
+  <h2><strong>A</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionA" role="tablist">
+    <div class="panel panel-default" id="BB">
+      <div class="panel-heading" id="headingA1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseA1" aria-expanded="true" data-parent="#accordionA" 
+      data-toggle="collapse" href="#collapseA1" role="button"><strong tabindex="0">Aberdeen</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingA1" class="panel-collapse collapse" id="collapseA1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="http://ghbeyondsurvival.com/" target="_blank">Beyond Survival</a></p>
+        <p>County: Grays Harbor</p>
+        <p>Phone Number: (888) 626-2640</p>
+        <p>Serves: Survivors of sexual assault, stalking, and trafficking.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div
+  </div>
+</article>
+
+
+
+
+<article id="bravo">
+  <h2><strong>B</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionB" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingB1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseB1" aria-expanded="true" data-parent="#accordionB" 
+      data-toggle="collapse" href="#collapseB1" role="button"><strong tabindex="0">Bellevue</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingB1" class="panel-collapse collapse" id="collapseB1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.lifewire.org/" target="_blank">LifeWire</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (425) 562-8840</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingB2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseB2" aria-expanded="true" data-parent="#accordionB" 
+      data-toggle="collapse" href="#collapseB2" role="button"><strong tabindex="0">Bellingham</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingB2" class="panel-collapse collapse" id="collapseB2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.dvsas.org/" target="_blank">Domestic Violence and Sexual Assault Services of Whatcom County</a></p>
+        <p>County: Whatcom</p>
+        <p>Phone Number: (360) 671-5714</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingB3" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseB3" aria-expanded="true" data-parent="#accordionB" 
+      data-toggle="collapse" href="#collapseB3" role="button"><strong tabindex="0">Bingen</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingB3" class="panel-collapse collapse" id="collapseB3" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.wagap.org/programs-for-peaceful-living" target="_blank">Programs for Peaceful Living</a></p>
+        <p>County: Klickitat</p>
+        <p>Phone Number: (509) 493-1533</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="CC">
+      <div class="panel-heading" id="headingB4" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseB4" aria-expanded="true" data-parent="#accordionB" 
+      data-toggle="collapse" href="#collapseB4" role="button"><strong tabindex="0">Bremerton</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingB4" class="panel-collapse collapse" id="collapseB4" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="http://ywcakitsap.org/" target="_blank">YWCA of Kitsap County</a></p>
+        <p>County: Kitsap</p>
+        <p>Phone Number: (360) 479-0522</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="charlie">
+  <h2><strong>C</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionC" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingC1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseC1" aria-expanded="true" data-parent="#accordionC" 
+      data-toggle="collapse" href="#collapseC1" role="button"><strong tabindex="0">Cathlamet</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingC1" class="panel-collapse collapse" id="collapseC1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="http://www.stjamesfc.org/The-Charlotte-House.html" target="_blank">The Charlotte House / St. James Domestic Violence Program</a></p>
+        <p>County: Wahkiakum</p>
+        <p>Phone Number: (360) 795-6401</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingC2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseC2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionC" data-toggle="collapse" href="#collapseC2" role="button"><strong tabindex="0">Centralia</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingC2" class="panel-collapse collapse" id="collapseC2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://hopealliancelc.org/" target="_blank">Hope Alliance</a></p>
+        <p>County: Lewis</p>
+        <p>Phone Number: (360) 748-6601</p>
+        <p>Serves: Survivors of domestic violence and sexual assault.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="DD">
+      <div class="panel-heading" id="headingC3" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseC3" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionC" data-toggle="collapse" href="#collapseC3" role="button"><strong tabindex="0">Colville</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingC3" class="panel-collapse collapse" id="collapseC3" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://ruralresources.org/" target="_blank">Rural Resources Community Action / Family Support Center</a></p>
+        <p>County: Stevens</p>
+        <p>Phone Number: (509) 684-3796</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="delta">
+  <h2><strong>D</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionD" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingD1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseD1" aria-expanded="true" data-parent="#accordionD" 
+      data-toggle="collapse" href="#collapseD1" role="button"><strong tabindex="0">Davenport</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingD1" class="panel-collapse collapse" id="collapseD1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://ruralresources.org/" target="_blank">Rural Resources Community Action/Victim Services</a></p>
+        <p>County: Lincoln</p>
+        <p>Phone Number: (509) 214-1419</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingD2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseD2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionD" data-toggle="collapse" href="#collapseD2" role="button"><strong tabindex="0">Dayton</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingD2" class="panel-collapse collapse" id="collapseD2" role="tabpanel">
+        <div class="panel-body">
+        <p>Columbia County Prosecuting Attorney - Victim/Witness Advocacy</p>
+        <p>County: Columbia</p>
+        <p>Phone Number: (509) 382-1197</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingD3" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseD3" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionD" data-toggle="collapse" href="#collapseD3" role="button"><strong tabindex="0">Deming</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingD3" class="panel-collapse collapse" id="collapseD3" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://nooksacktribe.org/departments/youth-family-services/tlils-taaaltha-victims-of-crime-program/" target="_blank">Nooksack Indian Tribe - Tl&#39;ils Ta&#39;&aacute;&#39;altha Victims of Crime Program</a></p>
+        <p>County: Whatcom</p>
+        <p>Phone Number: (360) 592-4164</p>
+        <p>Serves: Nooksack tribal members or individuals living within Nooksack boundaries</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; who are survivors of domestic violence, sexual assault, stalking, trafficking, or elder abuse.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+    
+    <!--<div class="panel panel-default" id="EE">
+      <div class="panel-heading" id="headingD4" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseD4" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionD" data-toggle="collapse" href="#collapseD4" role="button"><strong tabindex="0">Des Moines</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingD4" class="panel-collapse collapse" id="collapseD4" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.lighthousenw.org/" target="_blank">Lighthouse Northwest</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 824-8581</p>
+        <p>Serves: Current and former Rise Program participants.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>-->
+  </div>
+</article>
+
+
+
+
+<article id="echo">
+  <h2><strong>E</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionE" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingE1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseE1" aria-expanded="true" data-parent="#accordionE" 
+      data-toggle="collapse" href="#collapseE1" role="button"><strong tabindex="0">Ellensburg</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingE1" class="panel-collapse collapse" id="collapseE1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://comphc.org/services/aspen/" target="_blank">ASPEN Victim Advocacy Services of Kittitas County</a></p>
+        <p>County: Kittitas</p>
+        <p>Phone Number: (509) 925-9384</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="FF">
+      <div class="panel-heading" id="headingE2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseE2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionE" data-toggle="collapse" href="#collapseE2" role="button"><strong tabindex="0">Everett</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingE2" class="panel-collapse collapse" id="collapseE2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="http://www.cocoonhouse.org/" target="_blank">Cocoon House</a></p>
+        <p>County: Snohomish</p>
+        <p>Phone Number: (425) 259-5802</p>
+        <p>Serves: Survivors of trafficking between the ages of 12 and 24.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://dvs-snoco.org/" target="_blank">Domestic Violence Services (DVS) of Snohomish County</a></p>
+        <p>County: Snohomish</p>
+        <p>Phone Number: (425) 259-2827</p>
+        <p>Serves: Survivors of intimate partner violence and domestic violence.</p>
+        <p>&nbsp;</p>
+        
+        <p><a class="collapselink" href="https://helpinghands-project.org/" target="_blank">Helping Hands Organization</a></p>
+        <p>County: Snohomish</p>
+        <p>Phone Number: (425) 760-8306</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking with a focus on members of the Black Community.</p>
+        <p>&nbsp;</p>
+        
+        <p><a class="collapselink" href="https://www.providence.org/locations/wa/intervention-center-for-assault-and-abuse-everett?y_source=1_MjI0OTQ2MDEtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl#llaid=2787" target="_blank">Providence Intervention Center for Assault and Abuse</a></p>
+        <p>County: Snohomish, Island, and Skagit</p>
+        <p>Phone Number: (425) 297-5774</p>
+        <p>Serves: Survivors of sexual assault or trafficking.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://victimsupportservices.org/" target="_blank">Victim Support Services</a></p>
+        <p>County: Snohomish and Whatcom</p>
+        <p>Phone Number: (425) 252-6081</p>
+        <p>Serves: (Virtual services only) Survivors of crimes other than domestic violence or sexual assault;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>No homicide related crimes.</strong></p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="foxtrot">
+  <h2><strong>F</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionF" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingF1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseF1" aria-expanded="true" data-parent="#accordionF" 
+      data-toggle="collapse" href="#collapseF1" role="button"><strong tabindex="0">Forks</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingF1" class="panel-collapse collapse" id="collapseF1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://mariposahouse.org/" target="_blank">Mariposa House - Forks Abuse Program</a></p>
+        <p>County: Clallam</p>
+        <p>Phone Number: (360) 374-6411</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="HH">
+      <div class="panel-heading" id="headingF2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseF2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionF" data-toggle="collapse" href="#collapseF2" role="button"><strong tabindex="0">Friday Harbor</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingF2" class="panel-collapse collapse" id="collapseF2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://safesj.org/" target="_blank">SAFE San Juans</a></p>
+        <p>County: San Juan</p>
+        <p>Phone Number: (360) 378-2345</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="hotel">
+  <h2><strong>H</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionH" role="tablist">
+    <div class="panel panel-default" id="KK">
+      <div class="panel-heading" id="headingH1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseH1" aria-expanded="true" data-parent="#accordionH" 
+      data-toggle="collapse" href="#collapseH1" role="button"><strong tabindex="0">Hoquiam</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingH1" class="panel-collapse collapse" id="collapseH1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.co.grays-harbor.wa.us/government/prosecutor/victim_witness_services.php" target="_blank">Domestic Violence Center of Grays Harbor</a></p>
+        <p>County: Grays Harbor</p>
+        <p>Phone Number: (360) 538-0733</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="kilo">
+  <h2><strong>K</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionK" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingK1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseK1" aria-expanded="true" data-parent="#accordionK" 
+      data-toggle="collapse" href="#collapseK1" role="button"><strong tabindex="0">Kennewick</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingK1" class="panel-collapse collapse" id="collapseK1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://dvsbf.org/" target="_blank">Domestic Violence Services (DVS) of Benton and Franklin Counties</a></p>
+        <p>County: Benton and Franklin</p>
+        <p>Phone Number: (509) 735-1295</p>
+        <p>Serves: Survivors of domestic violence.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="LL">
+      <div class="panel-heading" id="headingK2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseK2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionK" data-toggle="collapse" href="#collapseK2" role="button"><strong tabindex="0">Kent</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingK2" class="panel-collapse collapse" id="collapseK2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.dawnrising.org/" target="_blank">DAWN - Domestic Abuse Women&#39;s Network</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (425) 656-7867</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="lima">
+  <h2><strong>L</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionL" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingL1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseL1" aria-expanded="true" data-parent="#accordionL" 
+      data-toggle="collapse" href="#collapseL1" role="button"><strong tabindex="0">La Conner</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingL1" class="panel-collapse collapse" id="collapseL1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://swinomish-nsn.gov/resources/police.aspx" target="_blank">Swinomish Police Department - Victim Witness Advocate</a></p>
+        <p>County: Skagit</p>
+        <p>Phone Number: (360) 399-8795</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingL2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseL2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionL" data-toggle="collapse" href="#collapseL2" role="button"><strong tabindex="0">Lewiston</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingL2" class="panel-collapse collapse" id="collapseL2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://ywcaidaho.org/" target="_blank">YWCA of Lewiston, ID/Clarkston, WA</a></p>   
+        <p>County: Asotin</p>
+        <p>Phone Number: (208) 743-1535</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingL3" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseL3" aria-expanded="true" data-parent="#accordionL" 
+      data-toggle="collapse" href="#collapseL3" role="button"><strong tabindex="0">Long Beach</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingL3" class="panel-collapse collapse" id="collapseL3" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.willapabh.org/wraparound-with-intensive-services-wise" target="_blank">Willapa Behavioral Health WISe Program</a></p>
+        <p>County: Pacific</p>
+        <p>Phone Number: (360) 642-3787</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, or stalking.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="MM">
+      <div class="panel-heading" id="headingL4" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseL4" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionL" data-toggle="collapse" href="#collapseL4" role="button"><strong tabindex="0">Longview</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingL4" class="panel-collapse collapse" id="collapseL4" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.esshelter.com/" target="_blank">ESS - Emergency Support Shelter</a></p>
+        <p>County: Cowlitz</p>
+        <p>Phone Number: (360) 425-1176</p>
+        <p>Serves: Victims residing in Cowlitz and Wahkiakum Counties.</p>
+        <p>&nbsp;</p>
+
+        <!--<p><a class="collapselink" href="https://www.esshelter.com/crime-victim-advocacy-program-cvap.html" target="_blank">ESS - Emergency Support Shelter - Crime Victim Advocacy Program (CVAP)</a></p>
+        <p>County: Cowlitz</p>
+        <p>Phone Number: (360) 703-3765</p>
+        <p>Serves: Survivors of stalking, trafficking, and general crime.</p>
+        <p>&nbsp;</p>-->
+
+        <p><a class="collapselink" href="https://www.esshelter.com/hopeproject.html" target="_blank">ESS - Emergency Support Shelter - Hope Project</a></p>
+        <p>County: Cowlitz</p>
+        <p>Phone Number: (360) 703-3762</p>
+        <p>Serves: Survivors of sexual assault.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article id="mike">
+  <h2><strong>M</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionM" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingM1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseM1" aria-expanded="true" data-parent="#accordionM" 
+      data-toggle="collapse" href="#collapseM1" role="button"><strong tabindex="0">Moses Lake</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingM1" class="panel-collapse collapse" id="collapseM1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://newhopewa.org/" target="_blank">New Hope Domestic Violence and Sexual Assault Services</a></p>
+        <p>County: Grant and Adams</p>
+        <p>Phone Number: (509) 765-8402</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="NN">
+      <div class="panel-heading" id="headingM2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseM2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionM" data-toggle="collapse" href="#collapseM2" role="button"><strong tabindex="0">Mount Vernon</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingM2" class="panel-collapse collapse" id="collapseM2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.skagitdvsas.org/" target="_blank">Skagit Domestic Violence and Sexual Assault Services</a></p>
+        <p>County: Skagit</p>
+        <p>Phone Number: (360) 336-9591</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article id="November">
+  <h2><strong>N</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionN" role="tablist">
+    <div class="panel panel-default" id="OO">
+      <div class="panel-heading" id="headingN1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseN1" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionN" data-toggle="collapse" href="#collapseN1" role="button"><strong tabindex="0">Newport</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingN1" class="panel-collapse collapse" id="collapseN1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.pofcn.org/" target="_blank">Family Crisis Network</a></p>
+        <p>County: Pend Oreille</p>
+        <p>Phone Number: (509) 447-2274</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+
+
+<article id="oscar">
+  <h2><strong>O</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionO" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingO1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseO1" aria-expanded="true" data-parent="#accordionO" 
+      data-toggle="collapse" href="#collapseO1" role="button"><strong tabindex="0">Oak Harbor</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingO1" class="panel-collapse collapse" id="collapseO1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.cadacanhelp.org/" target="_blank">CADA - Citizens Against Domestic and Sexual Abuse</a></p>
+        <p>County: Island</p>
+        <p>Phone Number: (360) 675-7057</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingO2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseO2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionO" data-toggle="collapse" href="#collapseO2" role="button"><strong tabindex="0">Olympia</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingO2" class="panel-collapse collapse" id="collapseO2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.cieloprograms.org/" target="_blank">CIELO Project</a></p>
+        <p>County: Thurston</p>
+        <p>Phone Number: (360) 709-0931</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.cvan11.org/" target="_blank">Crime Victims Advocacy Network</a></p>
+        <p>County: Thurston</p>
+        <p>Phone Number: (360) 786-5601</p>
+        <p>Serves: Trafficking survivors and criminal justice affiliates.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="http://fscss.org/" target="_blank">Family Support Center of South Sound</a></p>
+        <p>County: Thurston</p>
+        <p>Phone Number: (360) 754-9297</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.safeplaceolympia.org/" target="_blank">SafePlace</a></p>
+        <p>County: Thurston</p>
+        <p>Phone Number: (360) 786-8754</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="PP">
+      <div class="panel-heading" id="headingO3" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseO3" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionO" data-toggle="collapse" href="#collapseO3" role="button"><strong tabindex="0">Omak</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingO3" class="panel-collapse collapse" id="collapseO3" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="http://thesupportcenter.org/" target="_blank">The Support Center</a></p>
+        <p>County: Okanogan</p>
+        <p>Phone Number: (509) 826-3221</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article id="papa">
+  <h2><strong>P</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionP" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingP1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseP1" aria-expanded="true" data-parent="#accordionP" 
+      data-toggle="collapse" href="#collapseP1" role="button"><strong tabindex="0">Port Angeles</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingP1" class="panel-collapse collapse" id="collapseP1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.elwha.org/departments/lower-elwha-family-advocacy/" target="_blank">Lower Elwha Klallam Tribe - Lower Elwha Family Advocacy Program</a></p>
+        <p>County: Clallam</p>
+        <p>Phone Number: (360) 565-7257</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, dating violence, and elder abuse.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.healthyfam.org/" target="_blank">Healthy Families of Clallam County</a></p>
+        <p>County: Clallam</p>
+        <p>Phone Number: (360) 452-3811</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingP2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseP2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionP" data-toggle="collapse" href="#collapseP2" role="button"><strong tabindex="0">Port Townsend</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingP2" class="panel-collapse collapse" id="collapseP2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.dovehousejc.org/" target="_blank">DOVE - Dove House Advocacy Services</a></p>
+        <p>County: Jefferson</p>
+        <p>Phone Number: (360) 385-5291</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+    <div class="panel panel-default" id="RR">
+      <div class="panel-heading" id="headingP4" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseP4" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionP" data-toggle="collapse" href="#collapseP4" role="button"><strong tabindex="0">Pullman</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingP4" class="panel-collapse collapse" id="collapseP4" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="http://atvp.org/index.shtml" target="_blank">Alternatives to Violence of the Palouse</a></p>
+        <p>County: Whitman</p>
+        <p>Phone Number: (509) 332-0552</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="romeo">
+  <h2><strong>R</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionR" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingR1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseR1" aria-expanded="true" data-parent="#accordionR" 
+      data-toggle="collapse" href="#collapseR1" role="button"><strong tabindex="0">Renton</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingR1" class="panel-collapse collapse" id="collapseR1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://kingcounty.gov/depts/prosecutor/victim-community-support/domestic-violence.aspx" target="_blank">King County Prosecuting Attorney&#39;s Office - Felony DV Unit</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (425) 226-5062</p>
+        <p>Serves: Survivors of sexual assault or trafficking residing in King County.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.ywcaworks.org/locations/renton-regional-center" target="_blank">YWCA of Renton - Gender Based Violence Specialized Services</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (877) 757-8297</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <!--<div class="panel panel-default">
+      <div class="panel-heading" id="headingR2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseR2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionR" data-toggle="collapse" href="#collapseR2" role="button"><strong tabindex="0">Republic</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingR2" class="panel-collapse collapse" id="collapseR2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://ruralresources.org/program/domestic-violence/" target="_blank">Rural Resources Victim Services</a></p>
+        <p>County: Ferry</p>
+        <p>Phone Number: (509) 775-3331</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>-->
+
+    <div class="panel panel-default" id="SS">
+      <div class="panel-heading" id="headingR3" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseR3" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionR" data-toggle="collapse" href="#collapseR3" role="button"><strong tabindex="0">Richland</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingR3" class="panel-collapse collapse" id="collapseR3" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="http://supportadvocacyresourcecenter.org/about-sarc.html" target="_blank">SARC - Support Advocacy and Resource Center</a></p>
+        <p>County: Benton and Franklin</p>
+        <p>Phone Number: (509) 374-5391</p>
+        <p>Serves: Survivors of sexual assault and trafficking.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+<article id="sierra">
+  <h2><strong>S</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionS" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingS1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseS1" aria-expanded="true" data-parent="#accordionS" 
+      data-toggle="collapse" href="#collapseS1" role="button"><strong tabindex="0">Seattle</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingS1" class="panel-collapse collapse" id="collapseS1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.adwas.org/" target="_blank">ADWAS - Abused Deaf Women's Advocacy Services</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (855) 812-1001</p>
+        <p>Serves: Established clients who are Deaf, DeafBlind, or Hard of Hearing in Washington.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.apichaya.org/" target="_blank">API Chaya</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 325-0325</p>
+        <p>Serves: Domestic violence, sexual assault, trafficking, and Asian Pacific Islander survivors.</p>
+        <p>&nbsp;</p>
+
+        <!--<p><a class="collapselink" href="https://www.chiefseattleclub.org/" target="_blank">Chief Seattle Club Domestic Violence and Sexual Assault Program</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 715-7536</p>
+        <p>Serves: Native or Alaskan American survivors of domestic violence, sexual assault, or stalking.</p>
+        <p>&nbsp;</p>-->
+
+        <!--<p><a class="collapselink" href="https://endgv.org/" target="_blank">Coalition Ending Gender-Based Violence</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 568-5454</p>
+        <p>Serves: Survivors of domestic violence and sexual assault.</p>
+        <p>&nbsp;</p>-->
+  
+        <p><a class="collapselink" href="https://dvhopeline.org/" target="_blank">DV Hopeline<strong>*</strong></a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 737-0242</p>
+        <p>Serves: Survivors of domestic violence&nbsp;</p>
+	<p><strong>*</strong>Phone or virtual appointments only.
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.jfsseattle.org/get-help/domestic-violence-services/" target="_blank">Jewish Family Services - Project DVORA</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 861-3159</p>
+        <p>Serves: Survivors of domestic violence.&nbsp; Offers resources for culturally specific</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; services within the Jewish community.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.newbegin.org/" target="_blank">New Beginnings</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 737-0242</p>
+        <p>Serves: Survivors of domestic violence.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://restsurvivors.org/home" target="_blank">REST: Real Escape from the Sex Trade</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 451-7378</p>
+        <p>Serves: Survivors of trafficking</p>
+        <p>&nbsp;</p>
+   
+        <p>Salvation Army – Community Advocacy Program (CAP)</p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 447-9947</p>
+        <p>Serves: Survivors of intimate partner violence or trafficking within the past 12 months.</p>
+        <p>&nbsp;</p>
+        
+        <p><a class="collapselink" href="https://www.solid-ground.org/" target="_blank">Solid Ground</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 299-2500</p>
+        <p>Serves: Current and former Broadview residents.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://livewell.uw.edu/survivor-support-advocacy/" target="_blank">University of Washington LiveWell | Survivor Support & Advocacy</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 685-4357</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, or stalking/harassment </p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that is specifically related to sexual/intimate partner violence and who &nbsp;</p>        
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are also University of Washington students, faculty, or staff members. &nbsp;</p>        
+        <p>&nbsp;</p>
+ 
+        <p><a class="collapselink" href="https://www.seattleymca.org/social-impact-center" target="_blank">Y Social Impact Center Family Services &amp; Mental Health</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 382-5340</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.ywcaworks.org/" target="_blank">YWCA Seattle/King/Snohomish</a></p>
+        <p>County: King and Snohomish</p>
+        <p>City: Seattle</p>
+        <p>Phone Number: (877) 757-9782</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingS2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseS2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionS" data-toggle="collapse" href="#collapseS2" role="button"><strong tabindex="0">Stevenson</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingS2" class="panel-collapse collapse" id="collapseS2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://skamaniadvsa.webs.com/" target="_blank">Skamania County Council on Domestic Violence and Sexual Assault</a></p>
+        <p>County: Skamania</p>
+        <p>Phone Number: (509) 427-4210</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+    
+
+    <div class="panel panel-default" id="TT">
+      <div class="panel-heading" id="headingS3" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseS3" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionS" data-toggle="collapse" href="#collapseS3" role="button"><strong tabindex="0">Spokane</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingS3" class="panel-collapse collapse" id="collapseS3" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://lcsnw.org/office/spokane/" target="_blank">Lutheran Community Services Northwest &ndash; SAFeT</a></p>
+        <p>County: Spokane</p>
+        <p>Phone Number: (509) 747-8224</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://ywcaspokane.org/" target="_blank">YWCA of Spokane County</a></p>
+        <p>County: Spokane</p>
+        <p>Phone Number: (509) 326-1190</p>
+        <p>Serves: Only survivors of domestic violence or intimate partner violence.</p></div>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="tango">
+  <h2><strong>T</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionT" role="tablist">
+    <div class="panel panel-default" id="UU">
+      <div class="panel-heading" id="headingT1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseT1" aria-expanded="true" data-parent="#accordionT" 
+      data-toggle="collapse" href="#collapseT1" role="button"><strong tabindex="0">Tacoma</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingT1" class="panel-collapse collapse" id="collapseT1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.familyjusticecenter.us/" target="_blank">Crystal Judson Family Justice Center</a></p>
+        <p>County: Pierce</p>
+        <p>Phone Number: (253) 798-4166</p>
+        <p>Serves: Survivors of domestic violence, intimate partner violence, and trafficking.</p>
+        <p>&nbsp;</p>
+        
+        <p><a class="collapselink" href="https://www.kwacares.org/" target="_blank">Korean Women&#39;s Association @ the Crystal Judson Family Justice Center</a></p>
+        <p>County: Pierce</p>
+        <p>Phone Number: (253) 798-4166</p>
+        <p>Serves: Survivors of domestic violence, intimate partner violence, and trafficking.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.oursistershouse.com/" target="_blank">Our Sisters&rsquo; House</a></p>
+        <p>County: Pierce</p>
+        <p>Phone Number: (253) 383-4275</p>
+        <p>Serves: Survivors of domestic violence.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.oursistershouse.com/" target="_blank">Our Sisters&#39; House @ Crystal Judson Family Justice Center</a></p>
+        <p>County: Pierce</p>
+        <p>Phone Number: (253) 798-4166</p>
+        <p>Serves: Survivors of domestic violence, intimate partner violence, and trafficking.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://sexualassaultcenter.com/" target="_blank">Rebuilding Hope! Sexual Assault Center for Pierce County</a></p>
+        <p>County: Pierce</p>
+        <p>Phone Number: (253) 474-7273</p>
+        <p>Serves: Survivors of sexual assault.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.tacomacommunityhouse.org/advocacy/" target="_blank">Tacoma Community House Client Advocacy Services</a></p>
+        <p>County: Pierce</p>
+        <p>Phone Number: (253) 383-3951</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://www.ywcapiercecounty.org/" target="_blank">YWCA of Pierce County</a></p>
+        <p>County: Pierce</p>
+        <p>Phone Number: (253) 272-4181</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="uniform">
+  <h2><strong>U</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionU" role="tablist">
+    <div class="panel panel-default" id="VV">
+      <div class="panel-heading" id="headingU1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseU1" aria-expanded="true" data-parent="#accordionU" 
+      data-toggle="collapse" href="#collapseU1" role="button"><strong tabindex="0">University Place</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingU1" class="panel-collapse collapse" id="collapseU1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.kwacares.org/" target="_blank">KWA - Korean Women&#39;s Association</a></p>
+        <p>County: Pierce</p>
+        <p>Phone Number: (253) 359-0470</p>
+        <p>Serves: Survivors of domestic violence.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article id="victor">
+  <h2><strong>V</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionV" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingV1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseV1" aria-expanded="true" data-parent="#accordionV" 
+      data-toggle="collapse" href="#collapseV1" role="button"><strong tabindex="0">Vancouver</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingV1" class="panel-collapse collapse" id="collapseV1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://lcsnw.org/office/vancouver/" target="_blank">Lutheran Community Services Northwest </a></p>
+        <p>County: Clark</p>
+        <p>Phone: (360) 694-5624</p>
+        <p>Serves: Survivors of stalking, trafficking, or other crimes.</p>
+        <p>&nbsp;</p>
+
+        <p><a class="collapselink" href="https://ywcaclarkcounty.org/how-you-can-help/wish-list/safechoice-domestic-violence-program/" target="_blank">YWCA of Clark County - SafeChoice DV Program</a></p>
+        <p>County: Clark</p>
+        <p>Phone Number: (360) 696-0167</p>
+        <p>Serves: Only survivors of domestic violence.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="WW">
+      <div class="panel-heading" id="headingV2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseV2" aria-expanded="true" data-parent="#accordionV" 
+      data-toggle="collapse" href="#collapseV2" role="button"><strong tabindex="0">Vashon</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingV2" class="panel-collapse collapse" id="collapseV2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.vashondoveproject.org/" target="_blank">The DOVE Project</a></p>
+        <p>County: King</p>
+        <p>Phone Number: (206) 462-0911</p>
+        <p>Serves: Survivors of domestic violence on Vashon Island.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<article id="whiskey">
+  <h2><strong>W</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionW" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingW1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseW1" aria-expanded="true" data-parent="#accordionW" 
+      data-toggle="collapse" href="#collapseW1" role="button"><strong tabindex="0">Walla Walla</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingW1" class="panel-collapse collapse" id="collapseW1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.ywcaww.org/services/" target="_blank">YWCA of Walla Walla</a></p>
+        <p>County: Walla Walla</p>
+        <p>Phone Number: (509) 525-2570</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+
+
+    <div class="panel panel-default" id="YY">
+      <div class="panel-heading" id="headingW2" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseW2" aria-expanded="false" class="collapsed" 
+      data-parent="#accordionW" data-toggle="collapse" href="#collapseW2" role="button"><strong tabindex="0">Wenatchee</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingW2" class="panel-collapse collapse" id="collapseW2" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://www.findsafety.org/" target="_blank">SAGE - Safety, Advocacy, Growth, Empowerment</a></p>
+        <p>County: Chelan</p>
+        <p>Phone Number: (509) 663-7446</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+<article id="yankee">
+  <h2><strong>Y</strong></h2>
+  <div aria-multiselectable="true" class="panel-group" id="accordionY" role="tablist">
+    <div class="panel panel-default">
+      <div class="panel-heading" id="headingY1" role="tab">
+      <h4 class="panel-title"><a aria-controls="collapseY1" aria-expanded="true" data-parent="#accordionY" 
+      data-toggle="collapse" href="#collapseY1" role="button"><strong tabindex="0">Yakima</strong></a></h4>
+      </div>
+
+      <div aria-labelledby="headingY1" class="panel-collapse collapse" id="collapseY1" role="tabpanel">
+        <div class="panel-body">
+        <p><a class="collapselink" href="https://comphc.org/locations/aspen-victim-advocacy-services-yakima-center/" target="_blank">Aspen Victim Advocacy Services</a></p>
+        <p>County: Yakima</p>
+        <p>Phone Number: (509) 452-9675</p>
+        <p>Serves: Survivors of sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;</p>
+      
+        <p><a class="collapselink" href="https://www.ywcayakima.org/" target="_blank">YWCA of Yakima County</a></p>
+        <p>County: Yakima</p>
+        <p>Phone Number: (509) 248-7796</p>
+        <p>Serves: Survivors of domestic violence, sexual assault, stalking, or trafficking.&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or criminal justice affiliates who are victims of harassment.</p>
+        <p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+
+
+<h3><strong><a class="collapselink" href="#alphabetSoup">RETURN TO TOP</a></strong></h3>
+<p>&nbsp;</p>
+
+
+</body>
+</main>
+
+

@@ -1,0 +1,77 @@
+
+<head>
+
+<style>
+  p{
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+  }
+  .text-standard{
+    color: black;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", "sans-serif";
+    hyphens: none;
+  }
+  .kitchensink{
+    border-color: #000000; 
+    background-color: #FAFAFA; 
+    padding: 5px 5px 5px 5px;
+    font-size: 16px; 
+    margin-left:.125in; 
+    font-family:Calibri (Body); 
+    font-weight: heavy;
+  }
+  a.linkydink:link, a.linkydink:visited{
+    color:#0066cc;
+    text-decoration: underline;
+  }
+  a.linkydink:hover{
+    color: #7851a9;
+  }
+  a.linkydink:active{
+    color:#0066cc;
+  }
+  a.collapselink:link{
+    color: #000000;
+    text-decoration: none;
+  }
+  a.collapselink:hover{
+    color: #525252;
+    font-size: 105%;
+    text-decoration: none;
+  }  
+  a.collapsesink:link, a.collapsesink:visited{
+    color: #0066CC;
+    font-size: 16px;
+    background-color: transparent;
+    padding: 0px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+  }
+  a.collapsesink:hover{
+    color: #7851a9;
+    font-size: 105%;
+    background-color: transparent;
+    padding: 0px;
+    border: #7851a9;
+    margin: none;
+    text-decoration: none;
+  }
+  .picture-large{
+    width: 270px;
+    height: 180px;
+  }
+  ul{
+    list-style-type:circle;
+  }
+  li{
+    margin-left: .25in;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+
+
+</style>
+</head>

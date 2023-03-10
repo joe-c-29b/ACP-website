@@ -1,0 +1,276 @@
+
+<head>
+
+<style>
+  p{
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+  }
+  .text-standard{
+    color: black;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", "sans-serif";
+    hyphens: none;
+  }
+  .kitchensink{
+    border-color: #000000; 
+    background-color: #FAFAFA; 
+    padding: 5px 5px 5px 5px;
+    font-size: 16px; 
+    margin-left:.125in; 
+    font-family:Calibri (Body); 
+    font-weight: heavy;
+  }
+  a.linkydink:link, a.linkydink:visited{
+    color:#0066cc;
+    text-decoration: underline;
+  }
+  a.linkydink:hover{
+    color: #7851a9;
+  }
+  a.linkydink:active{
+    color:#0066cc;
+  }
+  a.collapselink:link{
+    color: #000000;
+    text-decoration: none;
+  }
+  a.collapselink:hover{
+    color: #525252;
+    font-size: 105%;
+    text-decoration: none;
+  }  
+  a.collapsesink:link, a.collapsesink:visited{
+    color: #0066CC;
+    font-size: 16px;
+    background-color: transparent;
+    padding: 0px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+  }
+  a.collapsesink:hover{
+    color: #7851a9;
+    font-size: 105%;
+    background-color: transparent;
+    padding: 0px;
+    border: #7851a9;
+    margin: none;
+    text-decoration: none;
+  }
+  .picture-large{
+    width: 270px;
+    height: 180px;
+  }
+  ul{
+    list-style-type:circle;
+  }
+  li{
+    margin-left: .25in;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+
+
+</style>
+</head>
+<body>
+  <main>
+  <article>
+    <h2>All Address Confidentiality Program participants receive the following:</h2>
+    <ul>
+      <li>A Handbook about the services and responsibilities of the participant</li>
+      <li>A substitute mailing address to use with Washington state and local government agencies &nbsp;instead of their residential, home or school address</li>
+      <li>An <a class="linkydink" href="/_assets/acp/new%20acp%20authorization%20card%20images.pdf" target="_blank">ACP Authorization Card</a></li>
+    </ul>
+  </article>
+
+  <article>
+    <p><h2>Participant Responsibilities:</h2></p>
+    <ul>
+      <li>Accept forwarded mail</li>
+      <li>Inform the ACP of any changes in address/information</li>
+      <li>Notify senders of the substitute address and Private Mailbox (PMB) number</li>
+      <li>Renew program membership every 4 years</li>
+      <li>Carry and present their <a class="linkydink" href="/_assets/acp/new%20acp%20authorization%20card%20images.pdf" target="_blank">ACP Authorization Card</a> when interacting with state and local agencies</li></p>
+    </ul>
+ 
+    <aside name="removing-public-voter-listings">
+    <p><em>**Agencies are authorized to make a copy of a participant&rsquo;s ACP Authorization Card**</em></p>
+    </aside>
+  </article>
+
+  <section>
+  <h2>Additional Information:</h2>
+    <article id="Using">
+    <div aria-multiselectable="true" class="panel-group" id="accordionUse" role="tablist">
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingUse" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseUse" aria-expanded="true" data-parent="#accordionUse" class="collapselink"
+        data-toggle="collapse" href="#collapseUse" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Using your substitute address</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingUse" class="panel-collapse collapse" id="collapseUse" role="tabpanel">
+          <div class="panel-body">
+            <p>The ACP provides participants with a legal substitute address and mail-forwarding services. Survivors use the 
+            substitute address on public records. Participants may also use the substitute address for personal use. 
+            Participant mail is sent to the substitute address and received by the ACP. The ACP team then forwards 
+            participant mail to their actual mailing address on file.</p>
+
+            <p><strong>Addressing Mail</strong></p>
+            <p>The following mail format is recommended for timely and accurate forwarding of mail:</p>
+    
+            <p style="margin-left:1.0in;"><strong>Participant Name</strong></p>
+            <p style="margin-left:1.0in;"><strong>PO Box 257 PMB ##### </strong></p>
+            <p style="margin-left:1.0in;"><strong>Olympia, WA 98507-0257</strong></p>
+            
+
+            <aside name="writing ACP address">
+            <p style="margin-left:.25in;"><em>**If an agency has fillable address regions with an irregular format, guarantee that you fill in your full name, 
+            PMB #####, and PO Box 257.**</em></p>
+            </aside>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <article id="Voting">
+    <div aria-multiselectable="true" class="panel-group" id="accordionVote" role="tablist">
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingVote" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseVote" aria-expanded="true" data-parent="#accordionVote" class="collapselink"
+        data-toggle="collapse" href="#collapseVote" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Voter Registration</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingVote" class="panel-collapse collapse" id="collapseVote" role="tabpanel">
+          <div class="panel-body">
+            <p>ACP participants have the ability to register to vote as a Protected Records Voter (PRV).&nbsp; Registration requires your actual physical address in addition to the substitute address provided by ACP. After becoming a PRV, your actual physical address, name, county, and voting precinct number will be kept out of public record.</p>
+            <p>If you would like to make changes to your voter registration record, call the ACP at (360)753-2972. We will send you the correct registration form to keep your address out of public record. <strong>DO NOT</strong> use the online voter registration system, VoteWA.</p>
+            <ul style="list-style-type:circle;">
+              <li style="margin-left:.25in;">Always register to vote using the Protected Voters Registration form at your local county elections 
+              office or from the ACP.</li>
+              <li style="margin-left:.25in;"><strong>Do not</strong> register or update your voter registration records at any public state assistance agency, 
+              such as:
+	      <ul style="list-style-type:disk;">
+	        <li style="margin-left:.5in;">Driver&rsquo;s License Facility (DOL)</li>
+	        <li style="margin-left:.5in;">Voter Registration Drives (VRD)</li>
+	        <li style="margin-left:.5in;">Department of Social and Health Services</li>
+	        <li style="margin-left:.5in;">Health Benefits Exchange (HBE), etc.</li>
+	      </ul></li>
+            </ul>
+            <p style="margin-left:1.0in;"><strong>**If asked, say no.**</strong></p>
+            <p><em>**ACP cannot remove public voter listings that already exist, such as those on Sound Politics.**</em></p>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <article id="Updates">
+    <div aria-multiselectable="true" class="panel-group" id="accordionUp" role="tablist">
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingUp" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseUp" aria-expanded="true" data-parent="#accordionUp" class="collapselink"
+        data-toggle="collapse" href="#collapseUp" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Updating ACP Information</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingUp" class="panel-collapse collapse" id="collapseUp" role="tabpanel">
+          <div class="panel-body">
+            <p>When you move, you must notify the Address Confidentiality Program (ACP) <u>at least</u> 2 days before your 
+            move. Address changes MUST be:</p>
+            <ul style="list-style-type:circle;">
+              <li style="margin-left:.25in;">Submitted in writing; <strong>AND</strong></li>
+              <li style="margin-left:.25in;">Include your signature (to verify your identity)</li>
+            </ul>
+            <p>To make things easier, Washington ACP offers a <a class="linkydink" href="/_assets/acp/change-of-information-form-12.2021_fillable.pdf" target="_blank">Change of Information/Address Form</a> that can be filled out and 
+            submitted, or used as a template.</p>
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <article id="Survivors">
+    <div aria-multiselectable="true" class="panel-group" id="accordionSur" role="tablist">
+<!--currently have a id="Resources" placed at the beginning of the anchor point for Survivor Resources-->
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingSur" role="tab">
+        <h4 class="panel-title"><a id="Resources" aria-controls="collapseSur" aria-expanded="true" data-parent="#accordionSur" class="collapselink"
+        data-toggle="collapse" href="#collapseSur" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Survivor Resources</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingSur" class="panel-collapse collapse" id="collapseSur" role="tabpanel">
+          <div class="panel-body">
+            <p><a class="linkydink" href="https://www.thehotline.org/" target="_blank">National Domestic Violence Hotline</a></p>
+            <p><a class="linkydink" href="https://www.nsvrc.org/about-sexual-assault" target="_blank">National Sexual Violence Resource Center</a></p>
+            <p><a class="linkydink" href="https://humantraffickinghotline.org/" target="_blank">National Human Trafficking Hotline</a></p>
+            <p><a class="linkydink" href="https://www.stalkingawareness.org/" target="_blank">Stalking Prevention, Awareness, and Resource Center</a></p>
+
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <article id="FAQs">
+    <div aria-multiselectable="true" class="panel-group" id="accordionFAQ" role="tablist">
+
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingFAQ" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseFAQ" aria-expanded="true" data-parent="#accordionFAQ" class="collapselink"
+        data-toggle="collapse" href="#collapseFAQ" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; FAQs</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingFAQ" class="panel-collapse collapse" id="collapseFAQ" role="tabpanel">
+          <div class="panel-body">
+            <h3>What is the length of enrollment?</h3>
+            <p style="margin-left:.25in;">The length of enrollment is four years. Participants may renew their enrollment at the end of the four-year term. &nbsp;A participant can voluntarily withdraw from the program at any time.</p>
+
+            <h3>Does ACP forward all types of mail?</h3>
+            <p style="margin-left:.25in;">No.&nbsp; The ACP <strong>ONLY</strong> forwards First-Class mail, including registered and certified mail. First-Class mail includes all personal mail, bills, cards, letters, etc. The ACP will also forward bank checks. The ACP cannot forward packages, magazines, or junk mail.</p>
+
+            <h3>Can agencies verify ACP participant status?</h3>
+            <p style="margin-left:.25in;">Yes.&nbsp; Agencies are encouraged to ask for, and make a copy of, a participant&rsquo;s ACP Authorization Card.&nbsp; They can also call the ACP at (360) 753-2972 to confirm their status.&nbsp; <em>The ACP will not release any other information about a participant other than their status in the program.</em></p>
+            
+            <h3>Can agencies make a copy of the ACP Authorization Card?</h3>
+            <p style="margin-left:.25in;">Yes.&nbsp; Agencies are encouraged to make a copy of a participant&rsquo;s ACP Authorization Card.</p>
+
+            <h3>Must state and local government agencies accept the substitute address reflected on an ACP Authorization Card?</h3>
+            <p style="margin-left:.25in;">Yes, with very few exceptions. State and local government agencies must accept the ACP substitute address when presented a valid ACP authorization card. They cannot require a participant to disclose their actual address.</p>
+
+            <h3>Can ACP participants receive registered mail or subpoenas?</h3>
+            <p style="margin-left:.25in;">Yes. The ACP accepts personal and legal mail. The ACP can receive such mail on behalf of a participant and forward it to them. This is treated as a participant receiving the mail.</p>
+
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <article id="Form">
+    <div aria-multiselectable="true" class="panel-group" id="accordionForm" role="tablist">
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingForm" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseForm" aria-expanded="true" data-parent="#accordionForm" class="collapselink"
+        data-toggle="collapse" href="#collapseForm" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Forms</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingForm" class="panel-collapse collapse" id="collapseForm" role="tabpanel">
+          <div class="panel-body">
+            
+            <p style="margin-left:.25in;"><a class="linkydink" href="/_assets/acp/coi-form-wtrust-name-6.2022_fillable.pdf" target="_blank">
+            Change of Information Form</a></p>
+
+            <p style="margin-left:.25in;"><a class="linkydink" href="/_assets/acp/08262022-cancellation-request-form-fillable.pdf" target="_blank">
+            Cancellation Request Form</a></p>
+
+            <p style="margin-left:.25in;"><a class="linkydink" href="/_assets/acp/safe-label--utility-alias-form-6.2022_fillable.pdf" target="_blank">
+            Safe Label Name Request Form</a></p>
+          </div>
+        </div>
+      </div>
+    </article>
+  </section>
+</main>
+</body>

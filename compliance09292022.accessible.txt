@@ -1,0 +1,305 @@
+
+<head>
+
+<style>
+  p{
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+  }
+  .text-standard{
+    color: black;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", "sans-serif";
+    hyphens: none;
+  }
+  .kitchensink{
+    border-color: #000000; 
+    background-color: #FAFAFA; 
+    padding: 5px 5px 5px 5px;
+    font-size: 16px; 
+    margin-left:.125in; 
+    font-family:Calibri (Body); 
+    font-weight: heavy;
+  }
+  a.linkydink:link, a.linkydink:visited{
+    color:#0066cc;
+    text-decoration: underline;
+  }
+  a.linkydink:hover{
+    color: #7851a9;
+  }
+  a.linkydink:active{
+    color:#0066cc;
+  }
+  a.collapselink:link{
+    color: #000000;
+    text-decoration: none;
+  }
+  a.collapselink:hover{
+    color: #525252;
+    font-size: 105%;
+    text-decoration: none;
+  }  
+  a.collapsesink:link, a.collapsesink:visited{
+    color: #0066CC;
+    font-size: 16px;
+    background-color: transparent;
+    padding: 0px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+  }
+  a.collapsesink:hover{
+    color: #7851a9;
+    font-size: 105%;
+    background-color: transparent;
+    padding: 0px;
+    border: #7851a9;
+    margin: none;
+    text-decoration: none;
+  }
+  .picture-large{
+    width: 270px;
+    height: 180px;
+  }
+  ul{
+    list-style-type:circle;
+  }
+  li{
+    margin-left: .25in;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+
+
+</style>
+</head>
+
+<body>
+
+  <header>
+    <p><strong>The purpose of the ACP is to enable state and local agencies to respond 
+    for requests for public records without disclosing the actual location of the program participant. </strong></p>
+  </header>
+  
+  <main>
+
+    <section id="State-and-local-government">
+    <div aria-multiselectable="true" class="panel-group" id="accordionState-and-local-government" role="tablist">
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingState-and-local-government" role="tab">
+        <h2 class="panel-title"><a aria-controls="collapseState-and-local-government" aria-expanded="true" data-parent="#accordionState-and-local-government" class="collapselink"
+        data-toggle="collapse" href="#collapseState-and-local-government" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; State and Local Government</strong></a></h2>
+        </div>
+
+        <div aria-labelledby="headingState-and-local-government" class="panel-collapse collapse" id="collapseState-and-local-government" role="tabpanel">
+          <div class="panel-body">
+          <p><strong>&shy;</strong>Pursuant of 
+          <a class="linkydink" href="https://app.leg.wa.gov/RCW/default.aspx?cite=40.24.050" target="_blank">RCW 40.24.050</a>, a program participant may request 
+          Washington state and local agencies, law enforcement and the courts to use his or her designated Address Confidentiality 
+          Program (ACP) address. When creating or modifying a new public record, state and local government agencies shall accept 
+          the address designated by the secretary of state as a participant's home, work, or school address unless the 
+          secretary has determined that:</p>
+
+          <ul>
+	    <li>The agency has a bona fide statutory or administrative requirement for the use of the address which would otherwise be confidential; and</li>
+	    <li>The address will be used only for statutory administrative purposes</li>
+          </ul>
+
+          <p>Sample <a class="linkydink" href="/_assets/acp/new%20acp%20authorization%20card%20images.pdf" target="_blank">ACP Authorization Card</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
+
+
+
+
+    <section id="Schools">
+    <div aria-multiselectable="true" class="panel-group" id="accordionSchools" role="tablist">
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingSchools" role="tab">
+        <h2 class="panel-title"><a aria-controls="collapseSchools" aria-expanded="true" data-parent="#accordionSchools" class="collapselink"
+        data-toggle="collapse" href="#collapseSchools" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Schools</strong></a></h2>
+        </div>
+
+        <div aria-labelledby="headingSchools" class="panel-collapse collapse" id="collapseSchools" role="tabpanel">
+          <div class="panel-body">
+            <p>Public schools are required to accept and use the substitute address as the legal address of an Address 
+            Confidentiality Program (ACP) family when presented with an ACP authorization card. All student records must 
+            show only the ACP substitute address to protect students. The location of the actual residence is not permitted.</p>
+
+            <p>Schools are allowed to make a copy of the card and are encouraged to do so to ensure student safety. Schools 
+            are also encouraged to contact ACP to verify that the family is actively enrolled in the ACP program.</p>
+
+            <p>The ACP participant is encouraged to provide the school with emergency contact information for the child or children. 
+            If an ACP participant requests transportation, the parent or guardian must provide the drop-off and pick-up location.</p>
+
+            <p>The school is authorized to use the ACP substitute address for regular First-Class correspondence and forwarding records.</p>
+
+            <p><strong>School District Eligibility</strong></p>
+
+            <p>Upon request from the family or the school, Address Confidentiality Program (ACP) staff may send a letter verifying the 
+            residence is within district boundaries. Staff will mail the verification letter to the ACP participant and ask that the 
+            participant redact their residential address from the letter. The letter can be shared with the district or school.</p>
+
+            <p>Sample <a class="linkydink" href="/_assets/acp/new%20acp%20authorization%20card%20images.pdf" target="_blank">ACP Authorization Card</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
+
+
+
+
+    <section id="Banks">
+    <div aria-multiselectable="true" class="panel-group" id="accordionBanks" role="tablist">
+
+    
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingBanks" role="tab">
+        <h2 class="panel-title"><a aria-controls="collapseBanks" aria-expanded="true" data-parent="#accordionBanks" class="collapselink"
+        data-toggle="collapse" href="#collapseBanks" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Banks</strong></a></h2>
+        </div>
+
+        <div aria-labelledby="headingBanks" class="panel-collapse collapse" id="collapseBanks" role="tabpanel">
+          <div class="panel-body">
+            <p>A ruling (<a class="linkydink" href="https://www.fincen.gov/sites/default/files/administrative_ruling/fin-2009-r003.pdf" target="_blank">FIN-2009-R003</a>) 
+            by the United States Department of Treasury Financial Crimes Enforcement Network (FinCEN), issued on November 3, 2009, 
+            allows financial institutions to use the street address of the ACP sponsoring agency instead of the participant's 
+            substitute address. Contact the ACP for more information.</p>
+            <p>Sample <a class="linkydink" href="/_assets/acp/new%20acp%20authorization%20card%20images.pdf" target="_blank">ACP Authorization Card</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
+
+    <section id="Private-Businesses">
+    <div aria-multiselectable="true" class="panel-group" id="accordionPrivate-Businesses" role="tablist">
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingPrivate-Businesses" role="tab">
+        <h2 class="panel-title"><a aria-controls="collapsePrivate-Businesses" aria-expanded="true" data-parent="#accordionPrivate-Businesses" class="collapselink"
+        data-toggle="collapse" href="#collapsePrivate-Businesses" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Private Businesses</strong></a></h2>
+        </div>
+
+        <div aria-labelledby="headingPrivate-Businesses" class="panel-collapse collapse" id="collapsePrivate-Businesses" role="tabpanel">
+          <div class="panel-body">
+          <p>Washington Businesses can play an important role in preventing the exchange and sale of confidential address 
+          information by agreeing to accept a participant&rsquo;s substitute address. The office of secretary of state 
+          forwards all First-Class mail from any business to the program participant. Private businesses are not required to 
+          accept the substitute address.</p>
+          <p>Sample <a class="linkydink" href="/_assets/acp/new%20acp%20authorization%20card%20images.pdf" target="_blank">ACP Authorization Card</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section id="ServiceOfProcess">
+    <div aria-multiselectable="true" class="panel-group" id="accordionBanks" role="tablist">
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingSoP" role="tab">
+        <h2 class="panel-title"><a aria-controls="collapseSoP" aria-expanded="true" data-parent="#accordionSoP" class="collapselink"
+        data-toggle="collapse" href="#collapseSoP" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Service of Process</strong></a></h2>
+        </div>
+
+        <div aria-labelledby="headingSoP" class="panel-collapse collapse" id="collapseSoP" role="tabpanel">
+          <div class="panel-body">
+            <p>The Secretary of State serves as the participant's legal agent for service of process. Staff may accept service on behalf of the program
+            participant (<a class="linkydink" href="https://apps.leg.wa.gov/wac/default.aspx?cite=434-840-080" target="_blank">WAC 434-840-080</a>).</p>
+            <h3><strong>Service of process by mail:</strong></h3>
+            <p style="margin-left:.5in;">Participant Name</p>
+            <p style="margin-left:.5in;">P.O. Box 257  PMB XXXX</p>
+            <p style="margin-left:.5in;">Olympia WA 98507-0257</p>
+            <h3><strong>Service of process in-person:</strong></h3>
+            <p style="margin-left:.5in;">Secretary of State Office</p>
+            <p style="margin-left:.5in;">416 Sid Snyder Ave SW</p>
+            <p style="margin-left:.5in;">Olympia WA 98504</p>
+            <p>Please include the participant’s name, PMB, and a check or money order for $25.00 made out to the Office of the Secretary of State. Please mark the outside of the envelope that contains the documents to be served with 
+            "Service of Process". This ensures the proper tracking of the service received.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
+
+
+
+
+
+    <section id="Addressing Mail">
+    <div aria-multiselectable="true" class="panel-group" id="accordionAddressing-Mail" role="tablist">
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingAddressing-Mail" role="tab">
+        <h2 class="panel-title"><a aria-controls="collapseAddressing-Mail" aria-expanded="true" data-parent="#accordionAddressing-Mail" class="collapselink"
+        data-toggle="collapse" href="#collapseAddressing-Mail" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Addressing Mail</strong></a></h2>
+        </div>
+
+        <div aria-labelledby="headingAddressing-Mail" class="panel-collapse collapse" id="collapseAddressing-Mail" role="tabpanel">
+          <div class="panel-body">
+            <p>The following mail format is recommended for timely forwarding of participant mail:</p>
+            
+            <p style="margin-left:.5in;"><strong>Full Name</strong></p>
+            <p style="margin-left:.5in;"><strong>PMB #####</strong> (ACP Authorization Code number)</p>
+            <p style="margin-left:.5in;"><strong>PO Box 257</strong></p>
+            <p style="margin-left:.5in;"><strong>Olympia, WA 98507-0257</strong></p>
+
+            <p>&nbsp;</p>
+            <p style="margin-left:1.0in;"><strong>OR</strong></p>
+            <p>&nbsp;</p>
+
+            <p style="margin-left:.5in;"><strong>Full Name</strong></p>
+            <p style="margin-left:.5in;"><strong>PO Box 257 PMB #####</strong></p>
+            <p style="margin-left:.5in;"><strong>Olympia, WA 98507-0257</strong></p>
+
+            <p><em>**Any mail sent to an ACP participant that is not addressed with their full name, PMB number, 
+            and PO Box 257 will most likely be returned to the sender.</em></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="FAQs">
+    <div aria-multiselectable="true" class="panel-group" id="accordionFAQs" role="tablist">
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingFAQs" role="tab">
+        <h2 class="panel-title"><a aria-controls="collapseFAQs" aria-expanded="true" data-parent="#accordionFAQs" class="collapselink"
+        data-toggle="collapse" href="#collapseFAQs" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; FAQs</strong></a></h2>
+        </div>
+
+        <div aria-labelledby="headingFAQs" class="panel-collapse collapse" id="collapseFAQs" role="tabpanel">
+          <div class="panel-body">
+            
+            <h3>Can agencies verify ACP participant status?</h3>
+            <p>Yes.&nbsp; Agencies are encouraged to ask for, and make a copy of, a participant&rsquo;s ACP Authorization Card.&nbsp; 
+            They can also call the ACP at (360) 753-2972 to confirm their status.&nbsp; <em>The ACP will not release any other information 
+            about a participant other than their status in the program.</em></p>
+
+            <h3>Can agencies make a copy of the ACP Authorization Card?</h3>
+            <p>Yes.&nbsp; Agencies are encouraged to make a copy of a participant&rsquo;s ACP Authorization Card.</p>
+
+            <h3>Must state and local government agencies accept the substitute address reflected on an ACP Authorization Card?</h3>
+            <p>Yes, with very few exceptions. State, and local government agencies must accept the ACP substitute address when 
+            presented a valid ACP authorization card. They cannot require a participant to disclose their actual address.</p>
+
+            <h3>Can ACP participants receive registered mail or subpoenas?</h3>
+            <p>Yes. The ACP accepts personal and legal mail. The ACP can receive such mail on behalf of a participant and forward it to them. &nbsp;This is treated as a participant receiving the mail.</p>
+          
+            <h3>Sample <a class="linkydink" href="/_assets/acp/new%20acp%20authorization%20card%20images.pdf" target="_blank">ACP Authorization Card</a></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
+  </main>
+</body>

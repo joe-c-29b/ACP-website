@@ -1,0 +1,367 @@
+﻿
+<head>
+
+<style>
+  p{
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+  }
+  .text-standard{
+    color: black;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", "sans-serif";
+    hyphens: none;
+  }
+  .kitchensink{
+    border-color: #000000; 
+    background-color: #FAFAFA; 
+    padding: 5px 5px 5px 5px;
+    font-size: 16px; 
+    margin-left:.125in; 
+    font-family:Calibri (Body); 
+    font-weight: heavy;
+  }
+  a.linkydink:link, a.linkydink:visited{
+    color:#0066cc;
+    text-decoration: underline;
+  }
+  a.linkydink:hover{
+    color: #7851a9;
+  }
+  a.linkydink:active{
+    color:#0066cc;
+  }
+  a.collapselink:link{
+    color: #000000;
+    text-decoration: none;
+  }
+  a.collapselink:hover{
+    color: #525252;
+    font-size: 105%;
+    text-decoration: none;
+  }  
+  a.collapsesink:link, a.collapsesink:visited{
+    color: #0066CC;
+    font-size: 16px;
+    background-color: transparent;
+    padding: 0px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+  }
+  a.collapsesink:hover{
+    color: #7851a9;
+    font-size: 105%;
+    background-color: transparent;
+    padding: 0px;
+    border: #7851a9;
+    margin: none;
+    text-decoration: none;
+  }
+  .picture-large{
+    width: 270px;
+    height: 180px;
+  }
+  ul{
+    list-style-type:circle;
+  }
+  li{
+    margin-left: .25in;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+
+
+</style>
+</head>
+
+<body>
+
+  <main>
+    <section>
+    
+    
+    <h3>To be eligible for Address Confidentiality Program (ACP), an applicant must:</h3>
+      <ul>
+        <li><a aria-controls="collapse" aria-expanded="true" data-toggle="collapse" class="collapsesink" href="#collapse" role="button" 
+        text-align="center"><font color="#000000">Be a survivor of </font><strong>domestic violence, sexual assault, trafficking, 
+        or stalking</strong><font color="#000000">; OR</font></a>
+
+          <div aria-labelledby="heading" class="button-collapse collapse kitchensink" id="collapse" role="tabpanel">
+            <div class="btn-body kitchensink" align="left" id="kitchensink">
+              <p><h4><u><strong>Domestic violence</strong></u></h4> Refers to an act as defined in
+              <a class="linkydink" href="http://apps.leg.wa.gov/rcw/default.aspx?cite=10.99.020" target="_blank">RCW 10.99.020</a> and includes a threat of such acts committed against an individual in 
+              a domestic situation, regardless of whether these acts or threats have been reported to law enforcement officers.
+              <a class="linkydink" href="https://www.thehotline.org/identify-abuse/" target="_blank"><strong>>click for more information<</strong></a></p>
+      
+              <p><h4><u><strong>Sexual assault</strong></u></h4> Refers to an act as defined in
+              <a class="linkydink" href="http://apps.leg.wa.gov/rcw/default.aspx?cite=70.125.030" target="_blank">RCW 70.125.030</a> and includes an attempt to commit such acts against an individual, 
+              regardless of whether these acts or threats have been reported to law enforcement officers.
+              <a class="linkydink" href="https://www.nsvrc.org/about-sexual-assault" target="_blank"><strong>>click for more information<</strong></a></p>
+      
+              <p><u><h4><strong>Stalking</strong></u></h4> Refers to an act as defined in
+              <a class="linkydink" href="http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.46.110" target="_blank">RCW 9A.46.110</a> and includes a threat of such acts committed against an individual, 
+              regardless of whether these acts or threats have been reported to law enforcement officers.
+              <a class="linkydink" href="https://www.stalkingawareness.org/definition-faqs/" target="_blank"><strong>>click for more information<</strong></a></p>
+      
+              <p><h4><u><strong>Trafficking</strong></u></h4> Refers to an act as defined in
+              <a class="linkydink" href="http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.40.100" target="_blank">RCW 9A.40.100</a> or an act recognized as a severe form of trafficking under&nbsp;
+              <a class="linkydink" href="http://uscode.house.gov/view.xhtml?path=/prelim@title22/chapter78&amp;edition=prelim" target="_blank">22 U.S.C. Sec. 7102(8)</a>
+              &nbsp;as it existed on June 12, 2008, or such subsequent date as may be provided by the secretary of state 
+              by rule, consistent with the purposes of this subsection, regardless of whether the act has been reported to law 
+              enforcement.
+              <a class="linkydink" href="https://humantraffickinghotline.org/what-human-trafficking" target="_blank"><strong>>click for more information<</strong></a></p>
+            </div>
+          </div></li>
+
+        <li><a aria-controls="collapse" aria-expanded="true" data-toggle="collapse" class="collapsesink" href="#collapseCJ" role="button" 
+        text-align="center"><font color="#000000">Be a </font><strong>criminal justice affiliate or elections official</strong> <font color="#000000">who is a target of threats or harassment 
+        as defined in RCW 9A.46.020; OR</font></a>
+
+          <div aria-labelledby="heading" class="button-collapse collapse kitchensink" id="collapseCJ" role="tabpanel">
+            <div class="btn-body kitchensink" align="left" id="kitchensink"> 
+              <p><h4><u><strong>Criminal Justice Affiliates</strong></u></h4> Refers to an act as defined in
+              <a class="linkydink" href="http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.46.020" target="_blank">RCW 9A.46.020</a> and includes who is target of felony harassment prohibited under 
+              paragraph (2)(b)(iii) or (iv), and any family member residing with him or her.&nbsp; Applicable Criminal Justice Affiliates are 
+              listed under paragraph (4).</p>
+            </div>
+          </div>
+        </li>
+
+
+
+        <li>Be a parent or guardian acting on behalf of a minor, or a guardian acting on behalf of an incapacitated person</li>
+      </ul>
+
+      <p style="margin-left:.75in;"><strong>AND</strong></p>
+
+      <ul>
+        <li>Fear for their safety; AND&nbsp;</li>
+        <li>Reside in Washington;&nbsp; AND&nbsp;</li>
+        <li>Be an adult</li>
+      </ul>
+
+      <p style="margin-left:.5in;"><em>**Household members of an applicant may also be eligible.**</em></p>
+      <p style="margin-left:.5in;"><em>**ACP is most effective if the applicant has recently, or is planning to, relocate to a new residence.**</em></p>
+      <p>&nbsp;</p>
+    </section>
+
+
+ 
+
+
+    <section>
+    <article>
+      <button id="SP" type="button" class="btn btn-default btn-xs;">
+      <a aria-controls="collapseSP" aria-expanded="true" data-toggle="collapse" class="collapselink"
+      href="#collapseSP" role="button" text-align="center"><strong><font size="3px">&nabla; &nbsp; </font><font size="5px">How to Apply</font></strong></a>
+      </button>
+
+      <div aria-labelledby="headingSP" class="button-collapse collapse" id="collapseSP" role="tabpanel">
+        <div class="btn-body" align="left" style="font-size: 16px; margin-left:.125in; font-family:Calibri (Body); font-weight: heavy;">
+        <p>Anyone wishing to apply can meet with an <strong><u>Application Assistant</u></strong>.</p>
+        <p>An Application Assistant is an employee of a state or local agency or non-profit organizations that provide advocacy, 
+        counseling, referral, or shelter to victims. An Application Assistant must be certified by the secretary of state to 
+        assist survivors.</font></p>
+        
+
+
+        <p>An Application Assistant will help with:</p>
+        <ul>
+          <li><font family="calibri"><strong>Safety planning</strong>; AND</li>
+          <li><font family="calibri">Explain the details and best practices for ACP participation; AND</li>
+          <li><font family="calibri">Assist applicant with filling out and submitting the application</li>
+        </ul>
+        <p style="margin-left:.5in;"><em>**An ACP application serves as a sworn statement, <strong>under penalty of perjury</strong>
+        **</em></p>
+        <br/>
+        </div>
+      
+        <aside>
+          <p>A <strong>Safety Plan</strong> is a personalized and practical plan that helps identify things a survivor can do to better protect 
+          themselves and their family and to help reduce the risk of future harm.</p>
+
+          <p style="margin-left:.25in;">It can include:</p>
+          <ul>
+            <li>Evaluating risks</li>
+            <li>Identifying steps to reduce risks</li>
+            <li>Implementing strategies</li>
+            <li>Reviewing plans as needed</li>
+          </ul>
+        </aside>
+        <p>&nbsp;</p>
+            
+        <aside>
+          <a class="linkydink" href="https://www.sos.wa.gov/acp/how-to-apply---find-an-application-assistantby-county.aspx"><strong><u>>Find an Application Assistant<</u></strong></a><br />
+        </aside>
+      </div>
+    </article>
+    </section>
+
+    <section>
+    <h1 align="center"><strong>Applicant video</strong></h1>
+      <p>&nbsp;</p>
+      <a href="https://www.youtube.com/watch?v=lQ87yAyjoV8&amp;list=PL9oXZcOwq8vkrKKIb4qVFXHNt1N71LpWo" target="_blank"><center><img src="/_assets/acp/hoodilydoodily.jpg" class="picture-large"></center></a>
+        
+      <p>&nbsp;</p>
+    </section>
+
+    <section>
+
+    <h1><strong>FAQs</strong></h1>
+    <div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist">
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingA1" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseA1" aria-expanded="true" data-parent="#accordion" class="collapselink"
+        data-toggle="collapse" href="#collapseA1" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp;How does ACP help keep my information private?</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingA1" class="panel-collapse collapse" id="collapseA1" role="tabpanel">
+          <div class="panel-body">
+          <p>All participant data is classified and maintained as private data by the ACP office. Measures are in place to secure 
+          participant data, which is extremely sensitive.</p>
+          <p>The ACP office will only disclose a participant's real residential address to a third party in response to a valid court 
+          order or law enforcement agency request. A formal request from a law enforcement agency is required to be 
+          signed by the agency's chief officer<strong>*</strong>.</p>
+          <p><strong>*</strong>If a participant's abuser is a member of law enforcement then a law enforcement agency would be required to 
+          obtain a court order.</p></div>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingA2" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseA2" aria-expanded="false" class="collapsed collapselink" 
+        data-parent="#accordion" data-toggle="collapse" href="#collapseA2" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp;Does ACP forward all types of mail?</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingA2" class="panel-collapse collapse" id="collapseA2" role="tabpanel">
+          <div class="panel-body">
+          <p>The ACP forwards all First-Class mail, including registered and certified mail. First-class mail includes all personal 
+          mail, bills, cards, letters, etc. The ACP will also forward bank checks. The ACP cannot forward packages, magazines, 
+          or junk mail.</p></div>
+        </div>
+      </div>
+    
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingA3" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseA3" aria-expanded="false" class="collapsed collapselink" 
+        data-parent="#accordion" data-toggle="collapse" href="#collapseA3" role="button">
+        <strong><font size="3px">&nabla;</font>&nbsp; &nbsp;Can ACP participants receive registered mail or subpoenas?</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingA3" class="panel-collapse collapse" id="collapseA3" role="tabpanel">
+          <div class="panel-body">
+          <p>Yes. The ACP accepts personal and legal mail. The ACP can receive such mail on behalf of a participant and forward 
+          it to them. This is treated as a participant receiving the mail.</p></div>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingA4" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseA4" aria-expanded="false" class="collapsed collapselink" 
+        data-parent="#accordion" data-toggle="collapse" href="#collapseA4" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp;Does enrolling in the ACP keep participants safe?</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingA4" class="panel-collapse collapse" id="collapseA4" role="tabpanel">
+          <div class="panel-body">
+          <p>ACP participation does not guarantee safety. If used correctly, the ACP can be a valuable addition to an overall 
+          safety plan. The ACP adds to, and does not substitute for, a comprehensive safety plan.</p></div>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingA5" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseA5" aria-expanded="false" class="collapsed collapselink" 
+        data-parent="#accordion" data-toggle="collapse" href="#collapseA5" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp;Must government agencies accept the substitute address on an ACP Authorization Card?</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingA5" class="panel-collapse collapse" id="collapseA5" role="tabpanel">
+          <div class="panel-body">
+          <p>Yes, with very few exceptions. State and local government agencies must accept the ACP substitute address when 
+          presented a valid ACP authorization card. They cannot require a participant to disclose their actual address.</p></div>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingA6" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseA6" aria-expanded="false" class="collapsed collapselink" 
+        data-parent="#accordion" data-toggle="collapse" href="#collapseA6" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp;Can ACP participants vote?</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingA6" class="panel-collapse collapse" id="collapseA6" role="tabpanel">
+          <div class="panel-body">
+          <p>Yes. ACP participants receive ACP voter registration information and ACP specific voting forms when they enroll. 
+          ACP participants should not register to vote online or at any state government office. 
+          This includes:</p>
+          <ul>
+	    <li>Department of Licensing</li>
+	    <li>Department of Social and Health Services</li>
+	    <li>Health Benefits Exchange Office</li>
+          </ul></div>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingA7" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseA7" aria-expanded="false" class="collapsed collapselink" 
+        data-parent="#accordion" data-toggle="collapse" href="#collapseA7" role="button"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp;Where can I use the ACP substitute address?</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingA7" class="panel-collapse collapse" id="collapseA7" role="tabpanel">
+          <div class="panel-body">
+            <p>All state or local agencies, and most private businesses accept the ACP substitute address.&nbsp;</p>
+            <p>This includes:</p>
+            <ul>
+	      <li>Voting Registration</li>
+	      <li>Department of Licensing</li>
+	      <li>Marriage Records</li>
+	      <li>Banks</li>
+	      <li>Public Libraries</li>
+	      <li>Washington Court System</li>
+	      <li>Social Services</li>
+	      <li>Police Departments</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading" id="headingA8" role="tab">
+        <h4 class="panel-title"><a aria-controls="collapseA8" aria-expanded="false" class="collapsed collapselink" 
+        data-parent="#accordion" data-toggle="collapse" href="#collapseA8" role="tab"><strong><font size="3px">&nabla;</font>&nbsp; &nbsp; Confidential vs. Non-Confidential</strong></a></h4>
+        </div>
+
+        <div aria-labelledby="headingA8" class="panel-collapse collapse" id="collapseA8" role="tabpanel">
+          <div class="panel-body">
+            <h3><strong>Confidential Information </strong></h3>
+
+            <ul>
+              <li>Actual street address</li>
+              <li>Mailing address, if different</li>
+              <li>City of residence</li>
+              <li>County of residence</li>
+              <li>Voting precinct</li>
+              <li>Unique identifying information related to a participant's home, work, or school address</li>
+            </ul>
+
+            <h3><strong>Non-Confidential Information</strong></h3>
+
+            <ul>
+              <li>ACP participation status</li>
+              <li>A participant's substitute address</li>
+              <li>State of residence</li>
+              <li>Records created before ACP enrollment</li>
+              <li>Information voluntarily provided by the participant to a state or local government agency</li>
+            </ul>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
+  </main>
+</body>
+
+
+

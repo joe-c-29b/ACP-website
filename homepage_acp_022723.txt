@@ -1,0 +1,191 @@
+
+<head>
+
+<style>
+  p{
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+  }
+  .text-standard{
+    color: black;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", "sans-serif";
+    hyphens: none;
+  }
+  .kitchensink{
+    border-color: #000000; 
+    background-color: #FAFAFA; 
+    padding: 5px 5px 5px 5px;
+    font-size: 16px; 
+    margin-left:.125in; 
+    font-family:Calibri (Body); 
+    font-weight: heavy;
+  }
+  .home{
+    background-color: #F0F6FA;
+  }
+  a.linkydink:link, a.linkydink:visited{
+    color:#0066cc;
+    text-decoration: underline;
+  }
+  a.linkydink:hover{
+    color: #7851a9;
+  }
+  a.linkydink:active{
+    color:#0066cc;
+  }
+  a.sounder:link, a.sounder:visited{
+    color:#FFFFFF;
+  }
+  a.sounder:hover{
+    color: #FFFFFF;
+  }
+  a.sounder:active{
+    color:#FFFFFF;
+  }
+
+  .button{
+    font-size: 32px;
+    background-color: #337ab7;
+    padding: 12px;
+    border-radius: 0%;
+    border: 5px solid #A5acaf;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 12px 0  rgba(0,0,0,0.19);
+    opacity: 1.0;
+    width: 49.5%;
+  }
+  .button:hover{
+    font-size: 32px;
+    background-color: #337ab7;
+    padding: 12px;
+    border-radius: 6%;
+    border: 3px solid #142530;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    opacity: .80;
+    width: 49.5%;
+    text-decoration: underline;
+  }
+  .button1{
+    background-color: #337ab7;
+    border: #A5acaf;
+    float: left;
+  }								
+  .button2{
+    background-color: #337ab7;
+    border: #A5acaf;
+    float: left;
+  }	
+  .button3{
+    background-color: #337ab7;
+    border: #A5acaf;
+    float: left;
+  }	
+  ul{
+    list-style-type:circle;
+  }
+  li{
+    margin-left: .25in;
+    font-weight: medium;
+    font-family: "Open Sans", "Calibri", sans-serif;
+    hyphens: none;
+
+
+</style>
+</head>
+
+<body>
+
+  <header><center><h1>Washington Address Confidentiality Program</h1></center></header>
+  <main>
+    <section id="Washington Address Confidentiality Program (ACP)">
+      <p>The Washington Address Confidentiality Program (ACP) offers survivors of domestic violence, sexual assault, stalking, trafficking,
+and Law Enforcement/Elections personnel who have been targets of felony harassment, a substitute mailing address to receive first class mail.  
+The address is accepted by Washington state, county, and city government agencies in lieu of a residential address for creating records.</p>
+      <p>&nbsp;</p>
+    </section>
+        <!--<section id="home buying trust">
+      <p><strong>Confidential Home Buying</strong> is now available for Washington ACP participants.
+      </p>
+    </section>
+    <section id="protected records voters">
+      <p><strong>Protected Records Voting</strong> is an aspect of the Washington Address Confidentiality Program that allows participants to register to vote using their subsitute address.
+      </p>
+    </section>-->
+
+
+    <section>
+
+      <button id="ACP How to Apply" type="button" class="button button1;">
+      <a class="sounder" href="https://www.sos.wa.gov/acp/how-to-apply---find-an-application-assistantby-county.aspx" role="button" text-align="center"><font size="5px">Do I Qualify?</font></a>
+      </button>
+
+      <button id="ACP become and Application Assistant" type="button" class="button button1;">
+      <a class="sounder" href="https://www.sos.wa.gov/acp/advocates--.aspx" role="button" text-align="center"><font size="5px">Become an Application Assistant</font></a>
+      </button>
+
+      <button id="ACP Compliance" type="button" class="button button1;">
+      <a class="sounder" href="https://www.sos.wa.gov/acp/compliance.aspx" role="button" text-align="center"><font size="5px">How to Apply</font></a>
+      </button>
+
+      <button id="ACP Participants" type="button" class="button button2;">
+      <a class="sounder" href="https://www.sos.wa.gov/acp/participants-.aspx" role="button" text-align="center"><font size="5px">Agencies, Schools, Businesses</font></a>
+      </button>
+
+      <button id="Washington ACP Resources" type="button" class="button button2;">
+      <a class="sounder" href="https://www.sos.wa.gov/acp/current-eligibility.aspx#Resources" role="button" text-align="center"><font size="5px">Participant Resources</font></a>
+      </button>
+
+      <button id="WA ACP Service of Process" type="button" class="button button2;">
+      <a class="sounder" href="https://www.sos.wa.gov/acp/compliance.aspx" role="button" text-align="center"><font size="5px">Service of Process</font></a>
+      </button>
+
+    </section>
+
+<!--ordering the buttons: 1Do i qualify, 2how to apply, 3participants, 1AA, 2A/S/B, 3SOP-->
+
+
+
+
+    <aside class="home">
+    <p>&nbsp;</p>
+    <center><u><h2>CONTACT US</h2></u>
+      <p><strong>Phone: </strong>(360) 753-2972 or toll free (800) 822-1065</p>
+      <p><strong>Fax: </strong> (360) 586-4388<p>
+      <p><strong>Mailing Address: </strong></p>
+      <p>PO Box 257</p>
+      <p>Olympia, WA 98507-0257</p>
+
+      <p>&nbsp;</p>
+
+    </center>
+    </aside>
+
+    <!--<section id="WA Address Confidentiality Program Videos">
+      <div class="col-lg-4 col-md-4 col-sm-4" id="ACP Participant Vid">
+        <a href="https://www.youtube.com/watch?v=lQ87yAyjoV8&list=PL9oXZcOwq8vkrKKIb4qVFXHNt1N71LpWo">
+<img alt="ACP Participant Video" src="https://www.sos.wa.gov/_assets/acp/participantsfeaturedarea_v5.png" />
+<p class="margin-top-5">Videos for Participants</p></a>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4" id="ACP AA vid">
+        <a href="https://www.youtube.com/watch?v=lQ87yAyjoV8&list=PL9oXZcOwq8vms3wsyxbWUy8pYS-zvswUC">
+<img alt="ACP Advocates and Application Assistants Video" src="https://www.sos.wa.gov/_assets/acp/advocatesfeaturedarea_v6.png" />
+<p class="margin-top-5">Videos for Advocates</p></a>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4" id="ACP Agency Vid">
+        <a href="https://www.youtube.com/watch?v=lQ87yAyjoV8&list=PL9oXZcOwq8vlkcW54JLVEMu45kpJyHsiq">
+<img alt="Agency ACP Cooperation Video" src="https://www.sos.wa.gov/_assets/acp/agenciesfeaturedarea_v5.png" />
+<p class="margin-top-5">Videos for Agencies</p></a>
+      </div>
+    </section>-->  
+    <div id="WA ACP locale">
+      <p>&nbsp;</p>
+      <center><p><em><strong>Note: </strong>ACP is housed in a secure location with no public access.</em></p></center>
+    </div>
+    
+
+  </main>
+</body>
+
+
+
