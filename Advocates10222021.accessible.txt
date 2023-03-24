@@ -1,4 +1,4 @@
-﻿
+
 <head>
 
 <style>
@@ -21,6 +21,9 @@
     margin-left:.125in; 
     font-family:Calibri (Body); 
     font-weight: heavy;
+  }
+  .hide{
+    color: #FFFFFF;
   }
   a.linkydink:link, a.linkydink:visited{
     color:#0066cc;
@@ -163,7 +166,7 @@
               every two years to continue serving as an Application Assistant.</p>
 
               <p style="margin-left:.125in;">You can transfer your certification to a new employer as long as you still meet the eligibility 
-              requirements and by submitting an updated Application Assistant Agreement.</p></div>
+              requirements and by submitting an updated Application Assistant Agreement. &nbsp;&nbsp;&nbsp;&nbsp; <a class="hide" href="/_assets/acp/2023-25-application-assistant-agreement---fillable.pdf" target="_blank">.</a></p></div>
 
               <center><a href="https://www.youtube.com/watch?v=lQ87yAyjoV8&list=PL9oXZcOwq8vms3wsyxbWUy8pYS-zvswUC" target="_blank">
               <img class="picture-large" src="/_assets/acp/video.jpg" alt="Advocates Video"/></a></center>
@@ -183,6 +186,7 @@
         <p>If you are a current Application Assistant and are in need of ACP materials, please email 
         <a class="linkydink" href="mailto:ACPTraining@sos.wa.gov">ACPTraining@sos.wa.gov</a>. Applications are not available online and must be 
         requested from our office directly by a certified Application Assistant.</p>
+
       </div>
     </section>
 
