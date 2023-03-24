@@ -1,0 +1,32 @@
+﻿<!--This is the color portion-->
+<!--This also controls the box size-->
+
+<div class="col-lg-8 col-md-8 col-sm-8" id="acpcontact" style="position: fixed; width: 20em;">
+<div class="osos-callout reset-margin-top" style="padding: 10px; background-color: #F5F5F5">
+
+
+<!--This is the text  inverse-primary-->
+
+<h2><strong>Request for training <br />and materials</strong></h2>
+
+<p style="font-size: 14px">If you are a current Application Assistant and are in need of ACP materials, please email 
+<a class="linkydink" href="mailto:ACPTraining@sos.wa.gov">ACPTraining@sos.wa.gov</a>. Applications are not available online and must be 
+requested from our office directly by a certified Application Assistant.</p>
+
+<!--<p><small style="opacity: .85; border-bottom:1px solid rgba(255,255,255, .45);"><strong>Toll Free (WA only)</strong></small><br />
+(800) 822-1065</p>
+
+<p><small style="opacity: .85; border-bottom:1px solid rgba(255,255,255, .45);"><strong>Local</strong></small><br />
+(360) 753-2972</p>
+
+<p><small style="opacity: .85; border-bottom:1px solid rgba(255,255,255, .45);"><strong>Fax</strong></small><br />
+(360) 586-4388</p>
+
+<p><small style="opacity: .85; border-bottom:1px solid rgba(255,255,255, .45);"><strong>Mailing</strong></small><br />
+PO Box 257<br />
+Olympia, WA<br />
+98507-0257</p>-->
+
+
+</div>
+</div>

@@ -1,0 +1,26 @@
+﻿<!--This is the color portion-->
+<!--This also controls the box size-->
+
+<div class="col-lg-8 col-md-8 col-sm-8" id="acpcontact" style="position: fixed; width: 15em;">
+<div class="osos-callout inverse-primary reset-margin-top" style="padding: 10px;">
+
+
+<!--This is the text-->
+
+<p><small style="opacity: .85; border-bottom:1px solid rgba(255,255,255, .45);">Toll Free (WA only)</small><br />
+(800) 822-1065</p>
+
+<p><small style="opacity: .85; border-bottom:1px solid rgba(255,255,255, .45);">Local</small><br />
+(360) 753-2972</p>
+
+<p><small style="opacity: .85; border-bottom:1px solid rgba(255,255,255, .45);">Fax</small><br />
+(360) 586-4388</p>
+
+<p><small style="opacity: .85; border-bottom:1px solid rgba(255,255,255, .45);">Mailing</small><br />
+PO Box 257<br />
+Olympia, WA<br />
+98507-0257</p>
+
+
+</div>
+</div>
